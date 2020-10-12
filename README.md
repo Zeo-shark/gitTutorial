@@ -14,3 +14,5 @@ This tutorial will help beginners learn the basic functionality of Git version c
 <hr>
 
 Tutorial for implementing Git in Web Development Projects
+
+- Github Training Kit. [Click here](https://training.github.com/)
